@@ -1,0 +1,11 @@
+{
+  "name": "libby",
+  "version": "1.0.0",
+  "description": "The missing library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Podles",
+  "license": "MIT"
+}
